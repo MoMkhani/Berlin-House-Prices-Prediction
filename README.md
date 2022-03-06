@@ -11,4 +11,4 @@ The berlin dataset is available on my Github.
 * Performed an exploratory data analysis and answered different questions about the berlin real state market
 * Built machine learning models to predict rent prices in berling using regression techniques
 
-![Berlin](berlin.jpg)
+![Berlin](berlin.jpeg)
