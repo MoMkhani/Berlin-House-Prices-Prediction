@@ -77,4 +77,4 @@ The variables of this dataset are:
 - `electricityKwhPrice` - electricity price per kwh (deprecated since Feb 2020)
 - `date` - time of scraping
 
-![Berlin](berlin.jpg)
+![Berlin](berlin.jpeg)
